@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressBar">
+
+        <!--画内圆弧-->
+        <attr name="innerBackground" format="color"/>
+        <!--画外圆弧-->
+        <attr name="outerBackground" format="color"/>
+        <!--圆弧宽度-->
+        <attr name="roundWidth" format="dimension"/>
+        <!--文字大小-->
+        <attr name="progressTextSize" format="dimension"/>
+        <!--文字颜色-->
+        <attr name="progressTextColor" format="color"/>
+
+    </declare-styleable>
+</resources>
